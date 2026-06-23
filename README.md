@@ -9,7 +9,7 @@ This mini project demonstrates how to deploy a static website on AWS using Terra
 ```
 Internet → CloudFront Distribution → S3 Bucket (Static Website)
 ```
-<img src="StaticS3.PNG" width="600"/>
+<img src="./StaticS3.PNG" width="600"/>
 ### Components:
 - **S3 Bucket**: Hosts static website files (HTML, CSS, JS)
 - **CloudFront Distribution**: Global CDN for fast content delivery
